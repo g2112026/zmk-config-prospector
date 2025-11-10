@@ -1,4 +1,4 @@
----
+---test
 include:
   - board: seeeduino_xiao_ble
     shield: prospector_scanner
